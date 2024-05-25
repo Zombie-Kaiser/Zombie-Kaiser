@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Zombie-Kaiser
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my friends
+Zombie-Kaiser@Linux.local:~$ neofetch
 
-![screenshot-1713638541517](https://github.com/Zombie-Kaiser/Zombie-Kaiser/assets/141570642/e53526dd-a6ea-4192-8414-ea58cb2bc42a)
-<!---
-Zombie-Kaiser/Zombie-Kaiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Zombie-Kaiser@Linux.local
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 2147483647 seconds
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: python3, gcc, node, nasm, 3 others...
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/bash
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: code, exploit dev, linux src
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: git@github.com:Zombie-Kaiser
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: 
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Twitter: 
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: 
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     compiling projects
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      ------------------
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`
