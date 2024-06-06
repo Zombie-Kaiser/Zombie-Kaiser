@@ -1,7 +1,8 @@
+```console
 notselwyn@archbtw.local:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 linux@linux.local
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 notselwyn@archbtw.local
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 2147483647 seconds
@@ -25,3 +26,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Twitter: notselwy
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`
+```
