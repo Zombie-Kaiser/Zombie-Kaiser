@@ -1,8 +1,8 @@
 ```console
-notselwyn@archbtw.local:~$ neofetch
+Zombie-Kaiser@Linux:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 notselwyn@archbtw.local
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Zombie-Kaiser@Linux
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 2147483647 seconds
